@@ -1,4 +1,5 @@
 import About from "./components/About";
+import ChairmanExecutive from "./components/ChairmanExecutive";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
@@ -16,6 +17,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <ChairmanExecutive/>
       <Services />
       <Training />
       <WhyChoose />
