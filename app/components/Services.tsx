@@ -6,32 +6,32 @@ import { motion } from "framer-motion";
 const services = [
     {
         title: "Corporate Security Guards",
-        image: "/services/corporate.jpg",
+        image: "/sfpl1.jpg",
         desc: "Professional and disciplined guards ensuring corporate safety and compliance.",
     },
     {
         title: "Industrial Security Services",
-        image: "/services/industrial.jpg",
+       image: "/sfpl2.jpg",
         desc: "24/7 protection for factories, warehouses, and manufacturing units.",
     },
     {
         title: "Residential Security",
-        image: "/services/residential.jpg",
+         image: "/sfpl3.jpg",
         desc: "Secure gated communities and residential complexes with trained staff.",
     },
     {
         title: "Event Security Management",
-        image: "/services/event.jpg",
+         image: "/sfpl4.jpg",
         desc: "Crowd control and event protection handled with precision and discipline.",
     },
     {
         title: "Facility Management",
-        image: "/services/facility.jpg",
+    image: "/sfpl5.jpg",
         desc: "Integrated facility services ensuring smooth operational performance.",
     },
     {
         title: "Manpower Recruitment",
-        image: "/services/manpower.jpg",
+         image: "/sfpl6.jpg",
         desc: "Customized staffing solutions tailored to your industry requirements.",
     },
 ];
